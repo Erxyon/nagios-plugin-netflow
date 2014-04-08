@@ -1,9 +1,9 @@
 nagios-plugin-netflow
 =====================
-== Installation ==
-Copy all content in a directory
-Launch install.sh
+# Installation
+1. Copy all content in a directory
+2. Launch install.sh
 
-== Information ==
+# Information
 Plugin is located at /netflow/plugin.sh
 Use check_snmp plugin by Patrick Proy
